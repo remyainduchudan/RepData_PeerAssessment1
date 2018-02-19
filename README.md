@@ -1,3 +1,5 @@
+Code.R has the source code 
+Fig folder has all the figures in the assignment
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
